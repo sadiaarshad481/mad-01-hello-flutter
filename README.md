@@ -32,10 +32,10 @@ The five `greetingFor` tests fail until you finish `TODO 2`. This is expected. W
 
 ## My screenshot
 
-![The app on my phone](screenshot.jpg)
+![My Flutter App](screenshot.jpg)
 
 Replace this picture with your own. Take a screenshot of the app on your phone, name it `screenshot.jpg`, and put it in the top folder of this repository, next to this README.
 
 ## AI note
 
-Replace this line with one sentence that says what you asked AI, or write "I didn't use AI".
+I used AI to understand and fix Dart syntax errors in my Flutter Assignment.
